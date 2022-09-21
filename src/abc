@@ -1,0 +1,157 @@
+{status: true, message: "Success", status_code: 200, products: {current_page: 1,…}}
+message
+: 
+"Success"
+products
+: 
+{current_page: 1,…}
+current_page
+: 
+1
+data
+: 
+[{id: 1, unique_id: null, user_id: 1, slug: "bajeko-momo-masala", category_id: 2,…},…]
+0
+: 
+{id: 1, unique_id: null, user_id: 1, slug: "bajeko-momo-masala", category_id: 2,…}
+1
+: 
+{id: 2, unique_id: null, user_id: 1, slug: "tokla-chiya", category_id: 1, name: "Tokla Chiya",…}
+2
+: 
+{id: 6, unique_id: null, user_id: 1, slug: "pastry-cake", category_id: 7, name: "PASTRY Cake",…}
+3
+: 
+{id: 7, unique_id: null, user_id: 1, slug: "cream", category_id: 9, name: "Cream", price: 2500,…}
+4
+: 
+{id: 8, unique_id: null, user_id: 1, slug: "pancakes", category_id: 7, name: "Pancakes", price: 5400,…}
+category_id
+: 
+7
+created_at
+: 
+"2022-06-13T05:40:17.000000Z"
+detail
+: 
+"<p><span style=\"color: rgb(108, 117, 125); font-family: &quot;Euclid Circular A&quot;; font-size: 18px; letter-spacing: normal; text-align: right;\">One of the main challenges to the adoption of digital finance in Nepal is the lack of digitization across various industries/sectors and hence the inability to process digital transactions. For instance, it is not possible to purchase bus tickets digitally until the ticketing system itself is digitized.</span><br style=\"margin: 0px; padding: 0px; outline: none; color: rgb(108, 117, 125); font-family: &quot;Euclid Circular A&quot;; font-size: 18px; letter-spacing: normal; text-align: right;\"><br style=\"margin: 0px; padding: 0px; outline: none; color: rgb(108, 117, 125); font-family: &quot;Euclid Circular A&quot;; font-size: 18px; letter-spacing: normal; text-align: right;\"><span style=\"color: rgb(108, 117, 125); font-family: &quot;Euclid Circular A&quot;; font-size: 18px; letter-spacing: normal; text-align: right;\">Realizing this gap, the F1Soft Group has invested in various tech companies each of which caters to the digital needs of a specific sector. Cogent Health builds EMR and ERP solutions for hospitals while Diyalo technologies focuses on ticketing systems and utility services. DarshanTech provides core systems tailored for the insurance sector while eSewa Money Transfer, our latest venture, looks to digitize the remittance industry.</span><br></p>"
+feature
+: 
+1
+id
+: 
+8
+image
+: 
+"https://nepaligardencms.creatudevelopers.com.np/uploads/images/product/16550988177589.jpg"
+image_link
+: 
+null
+ingredeints
+: 
+"<p><span style=\"color: rgb(108, 117, 125); font-family: &quot;Euclid Circular A&quot;; font-size: 18px; letter-spacing: normal; text-align: right;\">One of the main challenges to the adoption of digital finance in Nepal is the lack of digitization across various industries/sectors and hence the inability to process digital transactions. For instance, it is not possible to purchase bus tickets digitally until the ticketing system itself is digitized.</span><br style=\"margin: 0px; padding: 0px; outline: none; color: rgb(108, 117, 125); font-family: &quot;Euclid Circular A&quot;; font-size: 18px; letter-spacing: normal; text-align: right;\"><br style=\"margin: 0px; padding: 0px; outline: none; color: rgb(108, 117, 125); font-family: &quot;Euclid Circular A&quot;; font-size: 18px; letter-spacing: normal; text-align: right;\"><span style=\"color: rgb(108, 117, 125); font-family: &quot;Euclid Circular A&quot;; font-size: 18px; letter-spacing: normal; text-align: right;\">Realizing this gap, the F1Soft Group has invested in various tech companies each of which caters to the digital needs of a specific sector. Cogent Health builds EMR and ERP solutions for hospitals while Diyalo technologies focuses on ticketing systems and utility services. DarshanTech provides core systems tailored for the insurance sector while eSewa Money Transfer, our latest venture, looks to digitize the remittance industry.</span><br></p>"
+meta
+: 
+null
+name
+: 
+"Pancakes"
+pack_per_carton
+: 
+"12"
+price
+: 
+5400
+product_images
+: 
+[{id: 5, product_id: 8,…}]
+product_link
+: 
+null
+size
+: 
+null
+slug
+: 
+"pancakes"
+status
+: 
+1
+tax
+: 
+"450"
+total_weight
+: 
+"320"
+unique_id
+: 
+null
+unit_in_gram
+: 
+"21"
+updated_at
+: 
+"2022-06-13T05:40:17.000000Z"
+user_id
+: 
+1
+5
+: 
+{id: 9, unique_id: null, user_id: 1, slug: "lipsticks", category_id: 9, name: "Lipsticks", price: 450,…}
+6
+: 
+{id: 10, unique_id: null, user_id: 1, slug: "icecream-cake", category_id: 7, name: "ICECREAM CAKE",…}
+7
+: 
+{id: 11, unique_id: null, user_id: 1, slug: "cream-09", category_id: 9, name: "Cream 09", price: 3400,…}
+8
+: 
+{id: 12, unique_id: null, user_id: 1, slug: "face-cream", category_id: 9, name: "Face Cream",…}
+9
+: 
+{id: 13, unique_id: null, user_id: 1, slug: "facewash", category_id: 9, name: "Facewash", price: 650,…}
+10
+: 
+{id: 14, unique_id: null, user_id: 1, slug: "lipsticks-collection", category_id: 9,…}
+11
+: 
+{id: 15, unique_id: null, user_id: 1, slug: "matte-lipstick", category_id: 9, name: "Matte Lipstick",…}
+first_page_url
+: 
+"https://nepaligardencms.creatudevelopers.com.np/api/v1/product/get?page=1"
+from
+: 
+1
+last_page
+: 
+1
+last_page_url
+: 
+"https://nepaligardencms.creatudevelopers.com.np/api/v1/product/get?page=1"
+links
+: 
+[{url: null, label: "&laquo; Previous", active: false},…]
+next_page_url
+: 
+null
+path
+: 
+"https://nepaligardencms.creatudevelopers.com.np/api/v1/product/get"
+per_page
+: 
+100
+prev_page_url
+: 
+null
+to
+: 
+12
+total
+: 
+12
+status
+: 
+true
+status_code
+: 
+200
